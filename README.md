@@ -9,7 +9,7 @@ Desenvolver um modelo de previsão de **preços de imóveis** utilizando um data
 ## 📂 **Arquivos Disponíveis**
 
 - **`teste_indicium_precificacao.csv`**: Contém os dados dos imóveis utilizados para a análise e treinamento do modelo.
-- **`modelolinear.pkl`**: Arquivo com o modelo treinado de **Regressão Linear**, pronto para ser utilizado em previsões de preços.
+- **`modeloRandomforest.pkl`**: Arquivo com o modelo treinado de **RandomForestRegressor**, pronto para ser utilizado em previsões de preços.
 
 ## ⚙️ **Instalação**
 
