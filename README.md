@@ -1,4 +1,4 @@
-# 🚀 **Projeto de Previsão de Preços - Programa Lighthouse Indicium**
+# 🚀 **Projeto de Previsão de Preços - Programa Lighthouse**
 
 Este projeto foi desenvolvido como parte do processo seletivo para o **Programa Lighthouse Indicium**, com foco na **carreira de Cientista de Dados**.
 
