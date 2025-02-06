@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 **Projeto de Previsão de Preços - Programa Lighthouse Indicium**
 
 Este projeto foi desenvolvido como parte do processo seletivo para o **Programa Lighthouse Indicium**, com foco na **carreira de Cientista de Dados**.
@@ -50,6 +51,7 @@ modelo_rfr = pickle.load(open('LH_CD_VITÓRIA_SILVA.pkl', 'rb'))
 
 # Realizar a previsão com o modelo carregado
 previsao = modelo_rfr.predict(X_teste)
+
 
 
 
